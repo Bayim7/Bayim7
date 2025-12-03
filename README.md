@@ -8,13 +8,13 @@ I'm a first-year **Bachelor of Artificial Intelligence** student at **Johannes K
 
 ### 🚀 Current Focus & Project
 
-I'm currently building my **flagship portfolio project**: a **Production-Grade Retrieval-Augmented Generation (RAG) System**.
+I'm currently in the planning phase of building my **flagship portfolio project**: a **Production-Grade Retrieval-Augmented Generation (RAG) System**.
+Gathering and sharpening necessary skills and tools required for the project. 
 
 *   **Goal:** To build an iterative, end-to-end system that progresses from a simple prototype to a fully containerized, deployable API.
 *   **Tech Stack:** Python, FastAPI, Hugging Face `sentence-transformers`, SQLite, Git, MLflow, Docker.
 *   **What it demonstrates:** Data pipelining, NLP, model serving, software engineering best practices, and MLOps principles.
-*   **Repository:** [production-rag-system](https://github.com/Bayim7/production-rag-system)
-
+*   **Repository:** coming soon!!!
 This project embodies my builder's mindset and my focus on bridging theoretical knowledge with industry-ready implementation.
 
 ---
@@ -47,8 +47,8 @@ I'm actively seeking **internship opportunities for Summer 2026** and am always 
 
 ### 🎯 Beyond Code
 
-*   Attended the **"War for AI Talent"** networking event at JKU, engaging with leaders from Dynatrace, Microsoft, and McKinsey.
+*   Attended the **"War for AI Talent"** networking event at JKU, engaging with leaders from Dynatrace, Microsoft, and QuantumBlack AI (McKinsey).
 *   Passionate about **AI for Social Impact**, particularly in health and education.
 *   Firm believer in **knowledge sharing** and open-source collaboration.
 
-> *“The future depends on what we do in the present.” – Mahatma Ghandi*
+> *“It always seems impossible until it is done" - Nelson Mandela*
