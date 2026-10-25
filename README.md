@@ -4,9 +4,9 @@ Second-year BSc Artificial Intelligence student at Johannes Kepler University (J
 
 ## Projects
 
-- **[Streaming Log Anomaly Detector (SLAD)][(https://github.com/Bayim7/Streaming-Log-Anomaly-Detector-SLAD-.git)]** (in progress): a streaming pipeline for system logs, built with FastAPI and asyncio. Next steps: labelled LogHub data for evaluation, sketch-based features, and online anomaly detection.
-- **[Satellite Image Classifier][(https://github.com/Bayim7/Satellite-image-classification.git)]**: a PyTorch model on the EuroSAT dataset that reaches 94% accuracy on a hold-out test set across 10 land-use classes, with a Shiny web app for uploading images.
-- **Sound Event Detection Classifier**: a CRNN trained on an audio dataset we annotated ourselves, reaching 0.605 macro-F1 on a highly imbalanced dataset.[(https://github.com/Bayim7/Sound-Event-Detection.git)]
+- **[Streaming Log Anomaly Detector (SLAD)](https://github.com/Bayim7/Streaming-Log-Anomaly-Detector-SLAD-.git)** (in progress): a streaming pipeline for system logs, built with FastAPI and asyncio. Next steps: labelled LogHub data for evaluation, sketch-based features, and online anomaly detection.
+- **[Satellite Image Classifier](https://github.com/Bayim7/Satellite-image-classification.git)**: a PyTorch model on the EuroSAT dataset that reaches 94% accuracy on a hold-out test set across 10 land-use classes, with a Shiny web app for uploading images.
+- **[Sound Event Detection Classifier](https://github.com/Bayim7/Sound-Event-Detection.git)**: a CRNN trained on an audio dataset we annotated ourselves, reaching 0.605 macro-F1 on a highly imbalanced dataset.
 
 ## Toolkit
 
@@ -26,5 +26,5 @@ English (native), German (B1), Arabic (reading and writing: fluent; speaking: in
 
 ## Contact
 
-- LinkedIn: [(https://www.linkedin.com/in/ibrahim-u-muhammad/)]
-- Email: iumuhammad41@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/ibrahim-u-muhammad/)
+- Email: ibrahimmuhammaduthman7@gmail.com
