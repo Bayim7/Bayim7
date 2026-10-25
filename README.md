@@ -1,54 +1,30 @@
-## 👋 Hi, I'm Ibrahim | AI Student & Aspiring ML Engineer
+# Hi, I'm Ibrahim 👋
 
-I'm a first-year **Bachelor of Artificial Intelligence** student at **Johannes Kepler University (JKU), Linz**, on a deliberate path into the data field. I'm building a broad, practical skill set across **Data Science, Machine Learning Engineering, and Data Analytics**, with the goal of discovering my specialization through hands-on projects and internships.
+Second-year BSc Artificial Intelligence student at Johannes Kepler University (JKU) in Linz. I build data and machine learning projects in Python and I'm looking for a Summer 2027 internship in the Linz area or remotely.
 
-**My Core Idea:** Explore through building. Understand the fundamentals, then apply them to solve real problems.
+## Projects
 
----
+- **[Streaming Log Anomaly Detector (SLAD)][(https://github.com/Bayim7/Streaming-Log-Anomaly-Detector-SLAD-.git)]** (in progress): a streaming pipeline for system logs, built with FastAPI and asyncio. Next steps: labelled LogHub data for evaluation, sketch-based features, and online anomaly detection.
+- **[Satellite Image Classifier][(https://github.com/Bayim7/Satellite-image-classification.git)]**: a PyTorch model on the EuroSAT dataset that reaches 94% accuracy on a hold-out test set across 10 land-use classes, with a Shiny web app for uploading images.
+- **Sound Event Detection Classifier**: a CRNN trained on an audio dataset we annotated ourselves, reaching 0.605 macro-F1 on a highly imbalanced dataset.[(https://github.com/Bayim7/Sound-Event-Detection.git)]
 
-### 🚀 Current Focus & Project
+## Toolkit
 
-I'm currently in the planning phase of building my **flagship portfolio project**: a **Production-Grade Retrieval-Augmented Generation (RAG) System**.
-Gathering and sharpening necessary skills and tools required for the project. 
+- **Languages:** Python, R, SQL
+- **Machine learning:** PyTorch, scikit-learn, NumPy, Pandas
+- **Tools:** Git, FastAPI, Shiny, Docker (learning)
 
-*   **Goal:** To build an iterative, end-to-end system that progresses from a simple prototype to a fully containerized, deployable API.
-*   **Tech Stack:** Python, FastAPI, Hugging Face `sentence-transformers`, SQLite, Git, MLflow, Docker.
-*   **What it demonstrates:** Data pipelining, NLP, model serving, software engineering best practices, and MLOps principles.
-*   **Repository:** coming soon!!!
-This project embodies my builder's mindset and my focus on bridging theoretical knowledge with industry-ready implementation.
+## Beyond code
 
----
+- Led the organising team for the Linz hub of the 6th Hack-Nation Global AI Hackathon (about 50 participants) with Young AI Leaders Linz
+- Best Creative Presentation at the EC2U AI in Health and Medical Technology Summer School (September 2026)
+- Interested in responsible AI and governance, and in AI for health and education
 
-### 🛠️ Technical Toolkit
+## Languages
 
-*   **Programming:** `Python`
-*   **Data & ML:** `Pandas` | `NumPy` | `Scikit-learn` | `PyTorch` | `Hugging Face`
-*   **Software Engineering:** `Git` | `SQL` | `FastAPI` | `Docker` | `MLflow`
-*   **Languages:** English (Fluent), Arabic (Intermediate), German (Learning)
+English (native), German (B1), Arabic (reading and writing: fluent; speaking: intermediate)
 
----
+## Contact
 
-### 📚 Academic Journey @ JKU Linz
-
-*   **Relevant Coursework:** Programming in Python I, Mathematics for AI I & II, Introduction to AI, Logic, Hands-on AI I.
-*   **Special Interest Areas:** MLOps, NLP, Model Optimization, and the practical ethics of AI deployment.
-*   **Career Goal:** To become a proficient **ML Engineer** or **Data Scientist**, capable of building robust, scalable, and impactful data-driven systems.
-
----
-
-### 📫 Let's Connect & Discuss
-
-I'm actively seeking **internship opportunities for Summer 2026** and am always open to discussing technology, career paths, or potential collaborations.
-
-*   **LinkedIn:** [Ibrahim Muhammad](https://www.linkedin.com/in/ibrahim-muhammad7)
-*   **Email:** iumuhammad41@gmail.com
-
----
-
-### 🎯 Beyond Code
-
-*   Attended the **"War for AI Talent"** networking event at JKU, engaging with leaders from Dynatrace, Microsoft, and QuantumBlack AI (McKinsey).
-*   Passionate about **AI for Social Impact**, particularly in health and education.
-*   Firm believer in **knowledge sharing** and open-source collaboration.
-
-> *“It always seems impossible until it is done" - Nelson Mandela*
+- LinkedIn: [(https://www.linkedin.com/in/ibrahim-u-muhammad/)]
+- Email: iumuhammad41@gmail.com
